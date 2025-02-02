@@ -1,4 +1,4 @@
-![logo](https://github.com/Anmolpandey23/Anmolpandey23/blob/166086dab94c504e77db3a3acc712c35418e945f/Banner.png)
+![logo](https://github.com/Anmolpandey23/Anmolpandey23/blob/7206af59d458ff8788104d4a19d3139df62a326e/Banner.png)
 <h1 align="center">Hi 👋, I'm Anmol Pandey</h1>
 <h3 align="center">A passionate AI Data Analyst from India</h3>
 
